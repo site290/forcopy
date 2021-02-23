@@ -31,6 +31,8 @@ ___ линия
     <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Esc</kbd> - Высов диспетчера задач
 </pre>
 
+Бэйджики: [Ссылка](Ссылка)
+
 ```
 
 ### Примеры
@@ -82,6 +84,11 @@ ___
 <pre>
     <kbd>Alt</kbd>+<kbd>F4</kbd> - Читы ;)
 </pre>
+
+___
+[Создать](https://shields.io/category/build)
+
+Бэйджик: [https://img.shields.io/badge/forcopy-yes-green](https://img.shields.io/badge/forcopy-yes-green)
 
 ___
 
