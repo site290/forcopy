@@ -111,6 +111,6 @@ ___
 
 > by Gregl5
 
-# Дополнительно
+# Дополнительно <a href="l.gif" download><img src="l.gif" alt="Загрузка"></a>
 
 [Смайлики](https://github.com/GnuriaN/format-README/blob/master/emoji.md)
