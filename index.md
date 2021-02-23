@@ -33,6 +33,14 @@ ___ линия
 
 Бэйджики: ![Ссылка](Ссылка)
 
+> Цитата 1
+>> Цитата 2
+>>> Цитата 3
+
+>> Пр. Цитата 2
+> Пр. Цитата 1
+
+
 ```
 
 ### Примеры
@@ -96,6 +104,9 @@ ___
 
 > Сделано
 >> На
->>> GitHub Pages
+>>> GitHub
 
-[Побольше о разметке](https://github.com/GnuriaN/format-README)
+>> Pages
+> by Gregl5
+
+[Смайлики](https://github.com/GnuriaN/format-README/blob/master/emoji.md)
