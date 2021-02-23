@@ -1,4 +1,4 @@
-# Markdown - это сайт про разметку markdown
+# Это сайт про разметку markdown
 
 ### Разметка
 
@@ -38,6 +38,7 @@ ___ линия
 >>> Цитата 3
 
 >> Пр. Цитата 2
+
 > Пр. Цитата 1
 
 
@@ -107,6 +108,7 @@ ___
 >>> GitHub
 
 >> Pages
+
 > by Gregl5
 
 [Смайлики](https://github.com/GnuriaN/format-README/blob/master/emoji.md)
