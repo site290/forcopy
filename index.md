@@ -1,4 +1,4 @@
-# ForCopy - это сайт [для копии](https://web2zip.ru/)
+# Markdown - это сайт про разметку markdown
 
 ### Разметка
 
@@ -96,7 +96,7 @@ ___
 ___
 [Создать](https://shields.io/category/build)
 
-Бэйджик: ![https://img.shields.io/badge/forcopy-yes-green](https://img.shields.io/badge/forcopy-yes-green)
+Бэйджик: ![https://img.shields.io/badge/markdown-yes-green](https://img.shields.io/badge/markdown-yes-green)
 
 ___
 
