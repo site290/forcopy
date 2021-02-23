@@ -3,7 +3,7 @@
 ### Разметка
 
 ```Разметка
-Syntax highlighted code block
+Блок кода
 
 # Хедер 1
 ## Хедер 2
@@ -25,3 +25,6 @@ Syntax highlighted code block
 > Сделано
 >> На
 >>> GitHub
+>>> Pages
+>> Подробнее о заметке
+> Ниже
