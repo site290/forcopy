@@ -31,7 +31,7 @@ ___ линия
     <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Esc</kbd> - Высов диспетчера задач
 </pre>
 
-Бэйджики: [Ссылка](Ссылка)
+Бэйджики: ![Ссылка](Ссылка)
 
 ```
 
@@ -88,7 +88,7 @@ ___
 ___
 [Создать](https://shields.io/category/build)
 
-Бэйджик: [https://img.shields.io/badge/forcopy-yes-green](https://img.shields.io/badge/forcopy-yes-green)
+Бэйджик: ![https://img.shields.io/badge/forcopy-yes-green](https://img.shields.io/badge/forcopy-yes-green)
 
 ___
 
