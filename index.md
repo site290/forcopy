@@ -28,6 +28,7 @@ _КУРСИВНЫЙ_
 БЛОК КОДА
 ```
 [GitHub](https://github.com/)
+![Octocat](http://pngimg.com/uploads/github/github_PNG40.png)
 
 ### О сайте
 
