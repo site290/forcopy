@@ -24,7 +24,6 @@
 
 > Сделано
 >> На
->>> GitHub
->>> Pages
->> Подробнее о заметке
-> Ниже
+>>> GitHub Pages
+
+[Побольше о разметке](https://github.com/GnuriaN/format-README)
